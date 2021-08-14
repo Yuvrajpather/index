@@ -1,11 +1,10 @@
 .hello1 {
-    color: blue;
+    color: red;
     font-size: larger;
     font-style: oblique;
 }
 
 #hello2 {
     color: chartreuse;
-    font-size: xx-large;
-    font-style: italic;
+    font-size: 3em;
 }
